@@ -1,4 +1,4 @@
-![Adevinta Spain Hiring](https://user-images.githubusercontent.com/72563040/95493903-6e4d3080-099d-11eb-9d3f-35fc4f2f46ea.png)
+![Adevinta Spain Hiring](https://user-images.githubusercontent.com/1307927/95571673-1b20bf80-0a29-11eb-8585-197af94ebddf.jpg)
 
 ## Adevinta Spain SRE Challenge - CloudFormation
 
