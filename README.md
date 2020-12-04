@@ -4,4 +4,4 @@
 
 Nuestro Principal SRE se ha ido de vacaciones 🏖️ y ha dejado trabajo a medias...
 
-🙏 [¿Nos ayudas acabar la tarea para poder pasarlo a producción?](https://github.com/adevinta-spain-hiring/adevinta-sre-challenge-cloudformation)
+🙏 [¿Nos ayudas acabar la tarea para poder pasarlo a producción?](https://github.com/adevinta-spain-hiring/sre-challenge-cloudformation)
